@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 import lxml
 import time
 
-bot = Bot(token="5189770269:AAEd1aqL0lNNcgokYAvB2DhRT4pMBEKttrA")
+bot = Bot(token="")
 dp = Dispatcher(bot)
 
 
